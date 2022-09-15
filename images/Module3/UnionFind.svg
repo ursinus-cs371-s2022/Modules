@@ -2006,15 +2006,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="468.014"
+     inkscape:cx="334.79971"
      inkscape:cy="234.84665"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1557"
      inkscape:window-height="893"
-     inkscape:window-x="363"
-     inkscape:window-y="82"
+     inkscape:window-x="2008"
+     inkscape:window-y="89"
      inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -3517,7 +3517,7 @@
          id="tspan35675">    return i</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       style="font-size:7.05556011px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.26458299"
        x="-93.082138"
        y="554.86877"
        id="text35679"><tspan
@@ -3525,41 +3525,41 @@
          id="tspan35677"
          x="-93.082138"
          y="554.86877"
-         style="stroke-width:0.264583">Ex) root(6)</tspan><tspan
+         style="stroke-width:0.26458299">Ex) root(8)</tspan><tspan
          sodipodi:role="line"
          x="-93.082138"
          y="563.68823"
-         style="stroke-width:0.264583"
-         id="tspan35683">i = 6</tspan><tspan
+         style="stroke-width:0.26458299"
+         id="tspan35683">i = 8</tspan><tspan
          sodipodi:role="line"
          x="-93.082138"
          y="572.50769"
-         style="stroke-width:0.264583"
-         id="tspan35685">i = 1 # Parent of 6</tspan><tspan
+         style="stroke-width:0.26458299"
+         id="tspan35685">i = 1 # Parent of 8</tspan><tspan
          sodipodi:role="line"
          x="-93.082138"
          y="581.32715"
-         style="stroke-width:0.264583"
+         style="stroke-width:0.26458299"
          id="tspan35687">i = 7 # Parent of 1</tspan><tspan
          sodipodi:role="line"
          x="-93.082138"
          y="590.14655"
-         style="stroke-width:0.264583"
+         style="stroke-width:0.26458299"
          id="tspan35709">i = 0 # Parent of 7</tspan><tspan
          sodipodi:role="line"
          x="-93.082138"
          y="598.966"
-         style="stroke-width:0.264583"
-         id="tspan35711">root(6) = 0</tspan><tspan
+         style="stroke-width:0.26458299"
+         id="tspan35711">root(8) = 0</tspan><tspan
          sodipodi:role="line"
          x="-93.082138"
          y="607.78546"
-         style="stroke-width:0.264583"
+         style="stroke-width:0.26458299"
          id="tspan35689" /><tspan
          sodipodi:role="line"
          x="-93.082138"
          y="616.60492"
-         style="stroke-width:0.264583"
+         style="stroke-width:0.26458299"
          id="tspan35681" /></text>
     <text
        xml:space="preserve"
